@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tugas UAS</string>
+
+    <string name="image_preview">Image preview</string>
+    <string name="capture_button">Capture</string>
+    <string name="result_label">Result: </string>
+    <string name="confidence_level">Confidence: </string>
+</resources>
